@@ -12,14 +12,13 @@ A Java-based desktop application to manage and track freelance projects efficien
   - View all project details
   - Assign projects to clients
   - Track project statuses (Pending / Accepted / Completed)
-  - View feedback and give star ratings
 
 - **Client**
   - View projects assigned to them
   - Accept or reject projects
   - Mark projects as completed
   - Upload files or attachments
-  - Provide feedback
+    
 
 ---
 
