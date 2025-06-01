@@ -134,8 +134,18 @@ count_of_completed INT
 ---
 
 ## 📸 Screenshots
+-Login Page
+>![image](https://github.com/user-attachments/assets/99661c25-2eb2-4f2e-b60c-28cf48ed563c)
 
-> _Add screenshots of the login page, admin dashboard, client panel, and project details here for visual context._
+-Sign up page
+>![image](https://github.com/user-attachments/assets/5967730a-94bf-442c-92eb-888c38208728)
+
+-Admin dashboard
+>![image](https://github.com/user-attachments/assets/24ec3a22-ad67-42c3-87ef-4981b9013f2d)
+
+-Client dashboard
+>![image](https://github.com/user-attachments/assets/4afbfc26-5fd3-477a-b6bc-14afc03abd84)
+
 
 ---
 
