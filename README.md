@@ -146,7 +146,7 @@ count_of_completed INT
 >![image](https://github.com/user-attachments/assets/4afbfc26-5fd3-477a-b6bc-14afc03abd84)
 
 -count_of_projects
->[image](https://github.com/user-attachments/assets/4f12072f-b887-4854-8a76-b8627a8521ab)
+>![image](https://github.com/user-attachments/assets/4f12072f-b887-4854-8a76-b8627a8521ab)
 
 
 ---
