@@ -25,7 +25,7 @@ A Java-based desktop application to manage and track freelance projects efficien
 ## 🧱 Tech Stack
 
 - **Frontend**: Java Swing (GUI)
-- **Backend**: JDBC
+- **Backend**: Java
 - **Database**: MySQL
 - **IDE**: Eclipse / IntelliJ / NetBeans
 
